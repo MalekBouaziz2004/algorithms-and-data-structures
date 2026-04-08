@@ -1,5 +1,5 @@
 // ADS Praktikum 1.1 Printer
-// Name: Max Mustermann
+// Name: Malek Bouaziz
 #include <iostream>
 #include <queue>
 #include "job.hpp"
