@@ -1,5 +1,5 @@
 // ADS Praktikum 1.2 BST
-// Name: Max Mustermann
+// Name: Malek Bouaziz
 #pragma once
 
 /**
