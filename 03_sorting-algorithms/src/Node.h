@@ -6,7 +6,7 @@ const bool BLACK = false;
 class Node
 {
 public:
-    int key;     // Schlüssel
+    int key;     // SchlÃ¼ssel
     int val;     // damit verbundene Daten
     Node* left;  // Referenz auf den linken Teilbaum
     Node* right; // Referenz auf den rechten Teilbaum
