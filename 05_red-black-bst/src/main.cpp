@@ -1,5 +1,5 @@
 // ADS Praktikum 3
-// Name: Max Mustermann
+// Name: Malek Bouaziz
 #include <iostream>
 #include "RedBlackBST.h"
 #define CATCH_CONFIG_RUNNER
